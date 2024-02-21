@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">My name is Kashif Ali and I'm a frontent developer, from SMIT</p>
+<h2 align="left">My name is <b>Kashif Ali</b> and I'm a frontent developer, from <b>SMIT</b></h2>
 
 ###
 
