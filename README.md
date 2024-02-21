@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="[https://raw.githubusercontent.com/kashifalismitofficial/kashifalismitofficial/main/hey%20!%20banner.png](https://raw.githubusercontent.com/kashifalismitofficial/kashifalismitofficial/main/background2.png)"  />
+  <img  src="[https://raw.githubusercontent.com/kashifalismitofficial/kashifalismitofficial/main/hey%20!%20banner.png](https://raw.githubusercontent.com/kashifalismitofficial/kashifalismitofficial/main/background2.png)"  />
 </div>
 
 ###
