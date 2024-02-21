@@ -60,6 +60,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/kashifaliofficials) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kashif_ali12867) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kashif-ali-digital-marketer/) 
+
+
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
@@ -71,19 +75,23 @@
 </div>
 
 ###
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/kashifaliofficials) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kashif_ali12867) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kashif-ali-digital-marketer/) 
+
 
 
 # 📊 GitHub Stats:
+<div align="center">
 ![](https://github-readme-stats.vercel.app/api?username=kashifalismitofficial&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
+  </div>
+<div align="center">
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kashifalismitofficial&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 ### 🔝 Top Contributed Repo
+<div align="center">
 ![](https://github-contributor-stats.vercel.app/api?username=kashifalismitofficial&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+</div>
 ---
+<div align="center">
 [![](https://visitcount.itsvg.in/api?id=kashifalismitofficial&icon=3&color=10)](https://visitcount.itsvg.in)
-
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
