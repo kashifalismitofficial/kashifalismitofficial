@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Kashif Ali and I'm a frontent developer, from SMIT</p>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2023 <br>📚 I'm currently learning Javasript also typescript<br>🎯 Goals: Making unique apps <br>🎲 Fun fact: mahii</p>
 
 ###
 
