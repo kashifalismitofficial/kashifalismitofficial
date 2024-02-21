@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">hey there 👋 This is Kashif Ali</h1>
+<h1 align="center">Hey there 👋 This is Kashif Ali</h1>
 
 ###
 
@@ -70,7 +70,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=kashifalismitofficial&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
@@ -79,12 +79,12 @@
 
 
 # 📊 GitHub Stats:
-<div align="center">             
+             
   
 ![](https://github-readme-stats.vercel.app/api?username=kashifalismitofficial&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kashifalismitofficial&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</div>
+
 
 ### 🔝 Top Contributed Repo
 
