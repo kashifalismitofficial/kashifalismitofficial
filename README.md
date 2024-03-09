@@ -29,7 +29,7 @@
 <h2 align="left">About me</h2>
    
 ###
-<p align="right" >✨ Creating bugs since 2023 <br>📚 I'm currently learning Javasript also typescript<br>🎯 Goals: Learning Technologies</p>
+<p align="left" >✨ Creating bugs since 2023 <br>📚 I'm currently learning Javasript also typescript<br>🎯 Goals: Learning Technologies</p>
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
