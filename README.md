@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left" >✨ Creating bugs since 2023 <br>📚 I'm currently learning Javasript also typescript<br>🎯 Goals: Learning Technologies</p>
+<p align="left" >✨ Creating bugs since 2023 <br>📚 I'm currently learning Javasript and also typescript<br>🎯 Goals: Learning Technologies</p>
 
 ###
 
