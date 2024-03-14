@@ -5,7 +5,8 @@
 ###
 
 <div align="center">
-   <a href="https://www.linkedin.com/in/kashif-ali-digital-marketer/" ><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /><a>
+   <a href="https://www.linkedin.com/in/kashif-ali-digital-marketer/" ><img src="https://img.shields.io/static/v1? 
+    message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /><a>
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
@@ -27,7 +28,7 @@
 ###
 
 <h2 align="left">About me</h2>
-<img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">   
+
 
 ###
 
