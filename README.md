@@ -40,7 +40,29 @@
 
 ###
 
-<iframe src="https://giphy.com/embed/0lGd2OXXHe4tFhb7Wh" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-internet-bard-chatgpt-0lGd2OXXHe4tFhb7Wh">via GIPHY</a></p>
+# React Tilt
+
+[![npm version][npm-badge]][npm-url]
+[![npm downloads][downloads-badge]][npm-url]
+[![npm bundle size][size-badge]][size-url]
+[![Open issues][issues-badge]][issues-url]
+[![TypeScript][typescript-badge]][typescript-url]
+[![semantic-release][semantic-badge]][semantic-url]
+
+[![CI][lint-badge]][lint-url]
+[![CI][tsc-badge]][tsc-url]
+[![CI][build-badge]][build-url]
+[![CI][test-badge]][test-url]
+[![CI][test-e2e-badge]][test-e2e-url]
+[![Codecov Coverage][coverage-badge]][coverage-url]
+
+[![CI][deploy-storybook-badge]][deploy-storybook-url]
+[![CI][npm-release-badge]][npm-release-url]
+
+_👀 Easily apply tilt hover effect on React components_
+
+[![](misc/demo.gif)](https://mkosir.github.io/react-parallax-tilt/?path=/story/react-parallax-tilt--glare-effect)
+
 
 ### Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/kashifaliofficials) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kashif_ali12867) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashif-ali-mern-stack-developer/) 
