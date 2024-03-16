@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left" >✨ Creating bugs since 2023 <br>📚 I'm currently learning Javasript and also typescript<br>🎯 Goals: Learning Technologies</p>
+<p align="left" >✨ Creating Bugs Since 2023 <br>📚 I'm Currently Learning Javasript and also Typescript<br>🎯 Goals: Learning Technologies</p>
 
 ###
 
