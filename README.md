@@ -25,7 +25,7 @@
 
 ###
 
-<h3 align="center">I'm a full-stack developer passionate about building innovative and user-friendly applications with a focus on scalability.</b></h3>
+<h3 align="center">I'm a become Mern-stack Developer passionate about building innovative and user-friendly applications with a focus on scalability.</b></h3>
 
 ###
 
