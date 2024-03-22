@@ -21,11 +21,11 @@
 
 ###
 
-<h1 align="left">Hi 👋 I am Kashif Ali</h1>
+<h1 align="center">Hi 👋 I am Kashif Ali</h1>
 
 ###
 
-<p align="left">My name is <b> Kashif Ali </b> and I'm a Frontent Developer, from <b> SMIT ✨</b></p>
+<h3 align="center">I'm a full-stack developer passionate about building innovative and user-friendly applications with a focus on scalability.</b></h3>
 
 ###
 
