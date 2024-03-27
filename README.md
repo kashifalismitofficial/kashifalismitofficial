@@ -1,4 +1,3 @@
-
 <div align="center">
  <img alt="Coding" style="border-radius:16px;" src="./kashifali.png">
 </div>
